@@ -44,4 +44,4 @@
    - A/B-тестирование форматов сообщений
    - Сегментированный анализ по возрасту и заболеваниям
 
-> Полный код анализа доступен в [Jupyter Notebook](ссылка)
+> Полный код анализа доступен в [Jupyter Notebook](https://github.com/Polina1305/Improving-the-efficiency-of-the-city-clinic/blob/main/Improving-the-efficiency.ipynb)
